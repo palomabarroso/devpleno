@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding: 0;
+  border: 0;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #3affff;
+}
+
+button{
+  height: 48px;
+  min-width: 48px;
+  margin: 10px;
+  background-color: #ffaa44;
+}
+
+h1{
+  font-size: 40px;
+}
